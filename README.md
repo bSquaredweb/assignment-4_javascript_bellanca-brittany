@@ -13,5 +13,5 @@
 > I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
-- I feel like we were missing a video from Richard? Like when this week's video started, he had code on his screen about arrays and objects that we had not watched.
-- I struggled with the final part of step 6 (Function with Parameter) and would have liked some sort of direct instruction on this topic. I could not find this in Richard's videos that were shared with us.
+- I feel like we were missing a video from Richard? Like when this week's video started, he had code on his screen about arrays and objects that we had not watched. It was challenging to complete the first two branches without reviewing those topics.
+- I struggled with the final part of step 6 (Function with Parameter) and would have liked some sort of direct instruction on this topic. I could not find this in Richard's videos that were shared with us. Your explanation via email was helpful! Thanks!
