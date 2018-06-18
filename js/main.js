@@ -5,6 +5,7 @@ function howdy() {
 
 howdy();
 
+
 // function expression
 var numba = function ourFunction(string) {
     if (string.length < 7) {
@@ -32,8 +33,8 @@ function inception(display, favMovie) {
     display(favMovie);
 }
 
-function display(favMovie) {
-    console.log('Pitch Perfect is a fantastic movie.');
+function onScreen(aMovie) {
+    console.log(aMovie + ' ' + 'is a fantastic movie.');
 }
 
-inception(display);
+inception(onScreen, 'Pitch Perfect');
